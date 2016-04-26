@@ -2,3 +2,5 @@ node_modules
 *.log
 lib
 coverage
+.idea
+dist/
